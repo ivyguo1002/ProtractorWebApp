@@ -1,0 +1,20 @@
+{
+  "name": "protractorwebapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "allure-commandline": "^2.13.8",
+    "jasmine": "^3.7.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "^7.0.0"
+  },
+  "devDependencies": {
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
